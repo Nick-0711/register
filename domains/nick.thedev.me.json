@@ -1,0 +1,15 @@
+{
+  "subdomain": "nick",
+  "domain": "thedev.me",
+  "email_or_discord": "nicolasandersen07@gmail.com (Discord-nickthepro)",
+  "github_username": "Nick-0711",
+  "description": "I need this domain for a bio/linktree website that i am making for myself. since i dont want to spend money on a real domain i whould like to use this one.",
+
+  "records": {
+    "A":     ["1.0.0.1", "1.0.0.2"],
+    "AAAA":  ["2000:db8::1", "2000:db8::2"],
+    "CNAME": ["nicksbio.github.io"],
+  },
+
+  "proxied": true
+}
